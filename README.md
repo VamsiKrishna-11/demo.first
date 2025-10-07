@@ -1,4 +1,4 @@
 # demo.first
 First git repository
 <br>
-Author - Vamsi
+Author - Vamsi Krishna(ECE)
